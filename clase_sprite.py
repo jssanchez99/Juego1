@@ -2,7 +2,7 @@ import pygame
 from math import *
 import random
 
-ALTO = 400
+ALTO = 800
 ANCHO = 640
 
 ROJO = [255,0,0]
